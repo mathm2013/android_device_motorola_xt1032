@@ -1,6 +1,6 @@
 [
   {
-    "project": "razrqcom-dev-team",
+    "project": "CyanogenMod",
     "repository": "android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
     "branch": "cm-11.0"  
@@ -9,13 +9,13 @@
     "project": "razrqcom-dev-team",
     "repository": "android_device_motorola_msm8226-common",
     "target_path": "device/motorola/msm8226-common",
-    "branch": "cm-11.0"
+    "branch": "cm-11.0-caf"
   },
   {
     "project": "razrqcom-dev-team",
     "repository": "android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
-    "branch": "cm-11.0"
+    "branch": "cm-11.0-caf"
   },
   {
     "project": "TheMuppets",
